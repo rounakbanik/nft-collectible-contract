@@ -1,15 +1,13 @@
-# Basic Sample Hardhat Project
+# NFT Collectible Smart Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This is a companion code repository to Scrappy Squirrels' [Medium article](https://medium.com/scrappy-squirrels/tutorial-writing-an-nft-collectible-smart-contract-9c7e235e96da) on writing an NFT Collectible Smart Contract.
 
-Try running some of the following tasks:
+## About Scrappy Squirrels
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+<img src='squirrels.gif' height="250" width="250" />
+
+This library was created as part of the Scrappy Squirrels Project. 
+
+Scrappy Squirrels is a collection of 10,000 randomly generated NFTs on the Ethereum Blockchain. Scrappy Squirrels are meant for buyers, creators, and developers who are completely new to the NFT ecosystem.
+
+The community is built around learning about the NFT revolution, exploring its current use cases, discovering new applications, and finding members to collaborate on exciting projects with.
